@@ -2,14 +2,14 @@
 
 Ejemplo del patron de diseño Singleton y Factory en C# .Net 
 
-## Que hace?
+## ¿Que hace?
 <ul>
 <li> Guarda en una lista los empledos segun su tipo - Administrativo, Gerencial y Operativo </li>
 <li> Calcula el salario del empleado </li>
 <li> Genera un codigo de empleado unico y aleatorio a partir del nombre de departamento del empleado </li>
 </ul>
 
-## Como lo hace?
+## ¿Como lo hace?
 
 Usando el patron de diseño <strong>Singleton</strong>, me aseguro la clase gerencial solo tenga una instancia (solo hay un gerente) y proporciono un punto de acceso global a ella.
 
